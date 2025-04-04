@@ -1,0 +1,17 @@
+{
+  "name": "rest-api-express-and-mongo",
+  "version": "1.0.0",
+  "description": "A Simple REST API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "veeranarayana",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.1",
+    "nodemon": "^3.1.9"
+  }
+}
